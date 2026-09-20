@@ -18,23 +18,25 @@ const movies = [
 }
 
     {
-        title: "Example Hollywood",
+        title: "Vibe (2026) Hindi (LiNE) Movie HQ HDTC | 1080p | 720p | 480p | HC-ESubs
+",
         year: "2026",
-        language: "English",
-        category: "Hollywood",
+        language: "hindi",
+        category: "bollywood",
         quality: "1080p",
 
         poster:
         "https://placehold.co/600x900/191a20/ffffff?text=Hollywood",
 
         watch:
-        "https://YOUR-AUTHORIZED-WATCH-LINK.com",
+        "https://mobilejsr.com/view/qyDyXfge5n",
 
         download:
-        "https://YOUR-AUTHORIZED-DOWNLOAD-LINK.com",
+        "https://mobilejsr.com/view/qyDyXfge5n",
 
         description:
-        "Add your authorized movie description here."
+        "Vibe (2026) Hindi (LiNE) Movie HQ HDTC | 1080p | 720p | 480p | HC-ESubs
+"
     },
 
 
