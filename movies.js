@@ -1,25 +1,21 @@
 const movies = [
 
     {
-        title: "Example Movie",
-        year: "2026",
-        language: "Hindi",
-        category: "Bollywood",
-        quality: "720p",
+    title: "Vibe",
+    year: "2026",
+    language: "Hindi",
+    category: "Bollywood",
+    quality: "1080p",
 
-        poster:
-        "https://placehold.co/600x900/191a20/ffffff?text=Example+Movie",
+    poster: "PASTE-POSTER-LINK-HERE",
 
-        watch:
-        "https://YOUR-AUTHORIZED-WATCH-LINK.com",
+    watch: "https://hubcloud.ist/video/4axowuq4au1yg1d",
 
-        download:
-        "https://YOUR-AUTHORIZED-DOWNLOAD-LINK.com",
+    download: "https://hubcloud.ist/video/4axowuq4au1yg1d",
 
-        description:
-        "Add your authorized movie description here."
-    },
-
+    description:
+    "Vibe (2026) Hindi movie — HQ HDTC."
+}
 
     {
         title: "Example Hollywood",
